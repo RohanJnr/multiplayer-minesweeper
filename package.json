@@ -1,0 +1,23 @@
+{
+  "name": "multiplayer-minesweeper",
+  "version": "1.0.0",
+  "description": "A web based multiplayer minesweeper game.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohanJnr/multiplayer-minesweeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohanJnr/multiplayer-minesweeper/issues"
+  },
+  "homepage": "https://github.com/RohanJnr/multiplayer-minesweeper#readme",
+  "dependencies": {
+    "ws": "^8.5.0"
+  }
+}
